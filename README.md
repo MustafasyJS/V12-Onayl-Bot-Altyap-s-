@@ -1,1 +1,1 @@
-# V12-Onayl-Bot-Altyapısı
+# V12 Onaylı Bot Altyapısı
